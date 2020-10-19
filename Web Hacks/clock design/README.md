@@ -10,9 +10,3 @@ To run html in your localhost. You may clone the repo.
 ```bash
 $ git clone https://github.com/bislara/code-n-stitch.git
 ```
-
-# Contribute
-1. Fork the repo.
-2. Add files in forked repo.
-3. Commit to your forked repo.
-4. Make a pull request to Master repo from your forked repo.
